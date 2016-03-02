@@ -1,9 +1,3 @@
-# Result
-
-[![Build Status](https://travis-ci.org/antitypical/Result.svg?branch=master)](https://travis-ci.org/antitypical/Result)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![CocoaPods](https://img.shields.io/cocoapods/v/Result.svg)](https://cocoapods.org/)
-[![Reference Status](https://www.versioneye.com/objective-c/result/reference_badge.svg?style=flat)](https://www.versioneye.com/objective-c/result/references)
 # **Result-iOS7.0**
 The revised version is the minimum compatible version iOS7.0, and did not do tests and other changes, if you need to use, self-testing, and can commit changes. --from google translate
 
